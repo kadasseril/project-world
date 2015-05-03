@@ -1,2 +1,3 @@
 # project-world
-Repository for trying outgithub
+Repository for trying out github
+This is a great feature
